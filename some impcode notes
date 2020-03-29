@@ -1,3 +1,7 @@
 #1 To print item in console after connection. is established
 1 con.list()          *print all folders of email
 2 con.select('INBOX') *Byte code of latest email( last email is printed in console which u can use to fetch the items )
+#2
+IMAP stands for Internet Message Access Protocol. IMAP shares many similar features with POP3. It is a protocol that
+an email client can use to download
+SMTP- Simple Mail Transfer Protocol 
